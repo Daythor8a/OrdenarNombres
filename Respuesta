@@ -1,0 +1,2 @@
+Ya que LnkedList es muy bueno para Agregar y Eliminar Datos en este caso usé ArrayList porque al no tener
+que recorrer constantemente la lista para agregar o eliminar más datos, es más fácil y Rapido ordenarlos.
